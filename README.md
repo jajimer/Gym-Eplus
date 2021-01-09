@@ -2,6 +2,9 @@
 ### This environment has been only tested in Ubuntu 16.04 OS.
 ###
 This environment wraps the EnergyPlus-v-8-6 into the OpenAI gym environment interface.
+
+Also consider this repo: https://github.com/zhangzhizza/HVAC-RL-Control
+
 ### Installation
 EnergyPlus is platform dependent. So this repository does not include the EnergyPlus software. Please download
 the EnergyPlus-v-8-6 from https://energyplus.net/downloads, extract it, and place it to the directory 
